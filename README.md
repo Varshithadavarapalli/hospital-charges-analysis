@@ -29,4 +29,4 @@ This project analyzes hospital charges across the U.S., identifying:
 - Apply **Machine Learning** to predict hospital charges 🤖
 
 ---
-📩 **Want to connect?** → [Your LinkedIn] [[[www.linkedin.com/in/varshitha-reddy-davarapalli](url))
+📩 **Want to connect?** → www.linkedin.com/in/varshitha-reddy-davarapalli
