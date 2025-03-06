@@ -16,7 +16,7 @@ This project analyzes hospital charges across the U.S., identifying:
 
 ## 📂 Dataset
 - **Hospital Inpatient Charges**
-- download **Cleaned data: `[https://drive.google.com/file/d/18v9BbRckTEImMgj7sgzKJmiPKdZOZFjt/view?usp=sharing](url)`**
+- download **Cleaned data: https://drive.google.com/file/d/18v9BbRckTEImMgj7sgzKJmiPKdZOZFjt/view?usp=sharing
 
 ## 📊 Key Findings
 - **Some hospitals charge up to $900K for procedures** 💰
